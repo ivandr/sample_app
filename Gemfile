@@ -25,7 +25,8 @@ end
 
 group :test do
   gem 'rspec-rails', '2.6.1'
-  gem 'webrat', '0.7.3'
+  gem 'spork', '0.8.4'
+  gem 'webrat', '0.7.1'
 end
 
 # Use unicorn as the web server
